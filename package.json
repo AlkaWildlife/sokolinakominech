@@ -1,0 +1,7 @@
+{
+  "name": "sokolinakominech.cz",
+  "private": true,
+  "dependencies": {
+    "netlify-cms": "^2.3.1"
+  }
+}
