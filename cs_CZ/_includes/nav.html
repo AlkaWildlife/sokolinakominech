@@ -1,5 +1,6 @@
 <div id="top-row">
   {% if site.lang_alternatives and site.lang_alternatives.size > 0 %}
+    {{site.lang_alternatives.size}}
     <div class="language-switch">
       {% for alt in site.lang_alternatives %}
         {% if page.lang_alternatives[alt.lang] %}
