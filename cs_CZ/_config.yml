@@ -1,12 +1,12 @@
 source: cs_CZ
 destination: _site.cs_CZ
 
-title: Sysli na vinici
+title: Sokoli na komínech
 description: >-
   Záchrana sysla obecného v naší krajině a podpora vinařů, kteří na
   svých vinohradech sysla mají.
 baseurl: ""
-url: https://www.syslinavinici.cz
+url: https://www.sokolinakominech.cz
 author: alka-wildlife
 logo: /media/sysli_na_vinici_logo_200.jpg
 lang: cs_CZ
@@ -14,7 +14,7 @@ lang_alternatives:
 - lang: en_GB
   label: Switch to English
   title: "Visit an English version of this page: %@"
-  url: https://en.syslinavinici.cz
+  url: https://en.sokolinakominech.cz
   icon: /assets/images/flag_uk.png
 
 # Integrations and machine-readable metadata
