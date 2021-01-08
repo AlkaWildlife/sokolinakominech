@@ -6,5 +6,4 @@ listed: true
 position: 1
 layout: single_column_page
 ---
-Naše aktivity spojené s výzkumem a ochranou populací sysla obecného jsou financovány
-z dotačních projektů.
+Aktivity spojené s výzkumem a ochranou populace sokola stěhovavého jsou financovány ze soukromých prostředků firem, darů, i soukromých i státních dotací.
