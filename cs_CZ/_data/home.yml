@@ -5,7 +5,7 @@ news:
   all: Všechny novinky
   following: Další zprávy
 links:
-  - image: ''
+  - image: /media/cdy01132_krasna_fotka.jpg
     title: Sokol
     url: /sokol
   - image: /media/mapa_sysli.jpg
@@ -14,7 +14,7 @@ links:
   - image: ''
     title: Web kamery
     url: /webkamery
-  - image: ''
+  - image: /media/p1080835.jpg
     title: Budky
     url: /budky
   - image: /media/DSCN0196_156.JPG
