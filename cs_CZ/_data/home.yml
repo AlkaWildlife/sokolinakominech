@@ -31,14 +31,11 @@ gallery:
   title: Fotogalerie
 appeal:
   body: >-
-    Sokol stěhovavý je kriticky ohroženým druhem, ale v posledních letech se
-    populaci sokolů na území ČR daří. Populace roste mimo jiné i kvůli dobré
-    spolupráci ochrany přírody a soukromých firem – do instalace budek se
-    zapojují velké energetické firmy, i menší teplárny. Sokoli totiž hnízdí ve
-    výškách nad 100 m, a tak jednou z možných alternativ v dnešní době jsou
-    vysoké komíny.
+    V posledních letech se populaci sokolů na území ČR daří. Populace roste mimo
+    jiné i kvůli dobré spolupráci ochrany přírody a soukromých firem. Sokoli
+    totiž hnízdí ve výškách nad 100 m, a tak jednou z možných alternativ pro
+    hnízdění v dnešní době jsou vysoké komíny. Aby zde hnízdění proběhlo
+    bezpečně, jsou pro ně instalovány speciální hnízdní budky. Do instalace se
+    zapojují velké energetické firmy, i menší teplárny.
 other:
-  body: |-
-    # [Videogalerie](/sysel/videogalerie)
-
-    ![null]()
+  body: '# [Videogalerie](/sysel/videogalerie)'
