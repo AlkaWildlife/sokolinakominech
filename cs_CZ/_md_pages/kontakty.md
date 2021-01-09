@@ -21,10 +21,8 @@ Lidéřovice 62, 38001 Peč
 
 # Václav Beran
 
-email: lutra@email.cz
-
-tel: +420 731 407 839
-
+email: lutra@email.cz\
+tel: +420 731 407 839\
 _hlavní koordinátor, organizace, instalace budek, monitoring_
 
  
