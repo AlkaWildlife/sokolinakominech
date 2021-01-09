@@ -31,7 +31,6 @@ email: katerina.polednikova@alkawildlife.eu \ tel: +420 606 598 903 \ _zpráv
 
 _Vytvoření webových stránek bylo podpořeno Ministerstvem životního prostředí, web nemusí vyjadřovat stanoviska MŽP._
 
-_
-Vytvořeno v rámci projektu Monitoring sokola stěhovavého v urbanizovaném a industrializovaném prostředí, který byl financován z Programu na podporu projektů nestátních neziskových organizací pro rok 2020 - Podprogram A (r.č. 81/32/20)_
+_Vytvořeno v rámci projektu Monitoring sokola stěhovavého v urbanizovaném a industrializovaném prostředí, který byl financován z Programu na podporu projektů nestátních neziskových organizací pro rok 2020 - Podprogram A (r.č. 81/32/20)_
 
 ![](/media/logo-mzp_300.jpg)
