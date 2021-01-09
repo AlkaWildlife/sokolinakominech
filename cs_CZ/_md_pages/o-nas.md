@@ -13,7 +13,23 @@ Stránky sokolinakominech.cz provozují:
 
 Lidéřovice 62, 38001 Peč
 
+- - -
 
+# Kontaktní osoby:
+
+# Václav Beran
+
+email: lutra@email.cz\
+tel: +420 731 407 839\
+_hlavní koordinátor, organizace, instalace budek, monitoring_
+
+# Kateřina Poledníková
+
+email: katerina.polednikova@alkawildlife.eu\
+tel: +420 606 598 903\
+_zpráva webových stránek, publicita_
+
+****
 
 **Financování**: 
 
