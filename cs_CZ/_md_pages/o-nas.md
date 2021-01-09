@@ -6,29 +6,19 @@ listed: true
 position: 5
 layout: single_column_page
 ---
-Stránky syslinavinici.cz provozují:
+Stránky sokolinakominech.cz provozují:
 
-# [ALKA Wildlife, o.p.s.][1]
+# [ALKA Wildlife, o.p.s.](https://www.alkawildlife.eu)
 
 Lidéřovice 62, 38001 Peč
 
-# [Muzeum Karlovy Vary][2]
-
-Nová Louka 23, 36001 Karlovy Vary
-
-![](/media/loga_mgs_stojato_mm.jpg){: .wysiwyg-float-left}
-**Financováno z**: EHP fondy 2009–2014, Ministerstvo životního
-prostředí
-
-Podpořeno grantem z Islandu, Lichtenštejnska a Norska.
-
-<div class="clearfix"></div>
-
-*Tento web byl vytvořen za finanční podpory EHP fondů 2009–2014
-a Ministerstva životního prostředí. Za jeho obsah je výhradně odpovědná
-ALKA Wildlife,o.p.s. a nelze jej v žádném případě považovat za názor
-donora nebo Ministerstva životního prostředí.*
+# 
 
 
-[1]: https://www.alkawildlife.eu
-[2]: http://www.kvmuz.cz
+**Financování**: 
+
+_Vytvoření webových stránek bylo podpořeno Ministerstvem životního prostředí, web nemusí vyjadřovat stanoviska MŽP._
+
+_Vytvořeno v rámci projektu Monitoring sokola stěhovavého v urbanizovaném a industrializovaném prostředí, který byl financován z Programu na podporu projektů nestátních neziskových organizací pro rok 2020 - Podprogram A (r.č. 81/32/20)_
+
+![](/media/logo-mzp_300.jpg)
