@@ -6,4 +6,12 @@ listed: true
 position: 4
 layout: single_column_page
 ---
-V této sekci najdete ke stažení publikace či materiály týkající se sysla obecného: články, brožury, letáky, materiály pro učitele/děti.
+V této sekci najdete ke stažení naše publikace či materiály týkající se sokola stěhovavého: odborné články, brožury, letáky, materiály pro učitele/děti.
+
+
+
+[Návrat sokola stěhovavého - úspěch ochrany přírody, nebo důsledek samovolného vývoje?](/OP_8-11.pdf) / V. Hlaváč a V. Beran / článek v češtině / Ochrana přírody 2011,1 / pdf (2 MB)
+
+
+
+[Population trends and diversification of breeding habitats of Peregrine Falcon  (_Falcon peregrinus_) in the Czech Republic since 1990](/Ornishungarica_peregrinefalcon_2018.pdf) / V. Beran, J. Vrána a D. Horal / článek v angličtině / Ornis Hungarica 2018: 26, 2 / pdf (6,3 MB)
