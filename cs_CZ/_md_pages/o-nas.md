@@ -29,7 +29,7 @@ email: katerina.polednikova@alkawildlife.eu\
 tel: +420 606 598 903\
 _zpráva webových stránek, publicita_
 
-****
+- - -
 
 **Financování**: 
 
