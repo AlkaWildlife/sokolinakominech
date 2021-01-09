@@ -25,9 +25,9 @@ email: lutra@email.cz
 
 tel: +420 731 407 839
 
-_hlavní koordinátor, organizace, instalace budek, monitoring_ 
+_hlavní koordinátor, organizace, instalace budek, monitoring_
 
-
+ 
 
 # Kateřina Poledníková
 
