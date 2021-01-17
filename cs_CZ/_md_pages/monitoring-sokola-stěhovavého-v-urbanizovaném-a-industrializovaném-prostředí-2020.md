@@ -13,30 +13,29 @@ description: >-
 position: 1
 layout: two_columns_page
 ---
-## Financování 
+## Financování
 
 Projekt byl podpořen Ministerstvem životního prostředí, projekt nemusí vyjadřovat stanoviska MŽP.
 
-Program na podporu projektů nestátních neziskových organizací pro rok 2020 - Podprogram A
+Program na podporu projektů nestátních neziskových organizací pro rok 2020 - Podprogram A
+
+![](/media/logo-mzp_300.jpg)
 
 ## Registrační číslo
 
 81/32/20
 
-## Trvání 
+## Trvání
 
 01/2020 - 12/2020
 
-## Zaměření 
+## Zaměření
 
 monitoring a podpora sokola stěhovavého v celé ČR
 
 ## Cíle projektu
 
-1) opětovné zmapování hnízdní populace sokola stěhovavého v urbanizovaném a industrializovaném prostředí. Monitoring sokolů v industrializované prostředí je bez finanční podpory nedostatečný. V rámci tohoto projektu bylo monitorováno 60 vhodných objektů. 
-
-2) zabezpečit bezpečný průběh hnízdění párů na stavbách, tedy informovat vlastníky objektů o hnízdění a zajistit klid po dobu hnízdění.
-
-3) instalace 3 nových hnízdních budek na vhodných objektech, které jsou obsazeny párem sokolů a sokoli zde nemají vhodné místo pro hnízdění, nebo jde objekty, které mají velký potenciál na brzké obsazení 
-
-4) vytvoření webových stránek sokolinakominech.cz
+1. opětovné zmapování hnízdní populace sokola stěhovavého v urbanizovaném a industrializovaném prostředí. Monitoring sokolů v industrializované prostředí je bez finanční podpory nedostatečný. V rámci tohoto projektu bylo monitorováno 60 vhodných objektů. 
+2. zabezpečit bezpečný průběh hnízdění párů na stavbách, tedy informovat vlastníky objektů o hnízdění a zajistit klid po dobu hnízdění.
+3. instalace 3 nových hnízdních budek na vhodných objektech, které jsou obsazeny párem sokolů a sokoli zde nemají vhodné místo pro hnízdění, nebo jde objekty, které mají velký potenciál na brzké obsazení 
+4. vytvoření webových stránek sokolinakominech.cz
