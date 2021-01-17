@@ -31,7 +31,7 @@ Program na podporu projektů nestátních neziskových organizací pro rok 2020 
 
 ## Zaměření
 
-monitoring a podpora sokola stěhovavého v celé ČR
+monitoring a podpora sokola stěhovavého v celé ČR v průběhu roku 2020
 
 ## Cíle projektu
 
