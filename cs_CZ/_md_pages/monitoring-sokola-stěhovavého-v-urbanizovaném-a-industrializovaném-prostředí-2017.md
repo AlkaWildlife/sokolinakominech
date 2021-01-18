@@ -17,7 +17,7 @@ FINANCOVÁNÍ
 
 Projekt byl podpořen Ministerstvem životního prostředí, projekt nemusí vyjadřovat stanoviska MŽP.
 
-Program na podporu projektů nestátních neziskových organizací pro rok 2020 - Podprogram A
+Program na podporu projektů nestátních neziskových organizací pro rok 2017 - Podprogram A
 
 ![](/media/logo-mzp_300.jpg)
 
@@ -25,15 +25,11 @@ REGISTRAČNÍ ČÍSLO
 
 60/32/17
 
-TRVÁNÍ
+TRVÁNÍ
 
-01/2020 - 12/2020
-
-ZAMĚŘENÍ
+01/2017 - 12/2017
 
 monitoring a podpora sokola stěhovavého v celé ČR v průběhu roku 2017
-
-
 
 CÍLE PROJEKTU
 
