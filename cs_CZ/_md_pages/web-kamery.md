@@ -9,8 +9,6 @@ U některých hnízdních budek se postupně instalují fotopasti či i web kame
 
 Níže uvádíme odkazy na funkční online web kamery.
 
-
-
 ## [![Teplárna České Budějovice](/media/kartička_kamera_cb.jpg)](http://teplarna-cb.cz/hnizdo)
 
-
+## [![Teplárna Mladá Boleslav](/media/kartička_kamera_mb.jpg)](http://sko-energo.cz/cs/sokoli)
