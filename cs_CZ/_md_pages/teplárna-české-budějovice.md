@@ -2,6 +2,7 @@
 title: Teplárna České Budějovice
 published: true
 permalink: /budky/teplarna-ceske-budejovice
+description: Jedna budka instalovaná v roce 2016 na komíně teplárny v Českých Budějovicích.
 position: 1
 layout: two_columns_page
 ---
