@@ -2,7 +2,7 @@
 title: Teplárna České Budějovice
 published: true
 permalink: /budky/teplarna-ceske-budejovice
-description: Jedna budka instalovaná v roce 2016 na komíně teplárny v Českých Budějovicích.
+description: V budce na komíně teplárny v Českých Budějovicích hnízdí sokoli od roku 2019.
 position: 1
 layout: two_columns_page
 ---
