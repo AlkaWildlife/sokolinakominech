@@ -1,7 +1,7 @@
 ---
 title: Teplárna České Budějovice
 published: true
-permalink: /budky
+permalink: /budky/teplarna-ceske-budejovice
 position: 1
 layout: two_columns_page
 ---
