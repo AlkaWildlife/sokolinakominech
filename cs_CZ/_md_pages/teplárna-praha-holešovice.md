@@ -3,7 +3,7 @@ title: Teplárna Praha Holešovice
 published: true
 permalink: /budky/teplarna-holešovice
 long_title: Teplárna Pražská teplárenská Holešovice
-description: Budka zde byla instalována již v roce 2014.
+description: Budka zde byla instalována v roce 2014.
 position: 19
 layout: two_columns_page
 ---
