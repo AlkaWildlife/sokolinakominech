@@ -9,4 +9,4 @@ description: >-
 position: 7
 layout: two_columns_page
 ---
-Budka na ochoz komína byla nainstalována v dubnu 2016 jako reakce na zabrání budky na komínu Elektrárny Prunéřov 2 samicí raroha. Samice sokola budku sice ihned obsadila, ale rarožice bránila i tuto budku a k hnízdění nedošlo. Od roku 2017 zde každoročně hnízdí poštolky obecné. Trochu se tady ti dravci perou :-)
+Budka na ochoz komína byla nainstalována v dubnu 2016 jako reakce na zabrání budky na komínu [Elektrárny Prunéřov 2](/budky/cez-prunerov2) samicí raroha. Samice sokola budku sice ihned obsadila, ale rarožice bránila i tuto budku a k hnízdění nedošlo. Od roku 2017 zde každoročně hnízdí poštolky obecné. Trochu se tady ti dravci perou :-)
