@@ -9,8 +9,6 @@ description: >-
 position: 32
 layout: two_columns_page
 ---
-
-
 Budka na ochoz komínu instalována v únoru 2017. v roce 2017 zjištěn pár, v roce 2019 a v roce 2020 opět pár. Pravděpodobně jde ale o pár hnízdící jinde (Moravský kras??). Hnízdění ani jeho náznaky nebyli na lokalitě pozorovány.
 
 __
