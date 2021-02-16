@@ -15,13 +15,13 @@ _Ledvičtí sokolíci_
 
 ![mláďata sokola](/media/sokolici-foto-ez_compressed.jpg "mláďata sokola")
 
-__
+
 
 _páření sokolů_
 
 ![](/media/p1080219_ledvice_pareni_620.jpg)
 
-výchova mláďat
+_výchova mláďat_
 ![](/media/pict1440_620.jpg)
 
 ![](/media/pict1580_620.jpg)
