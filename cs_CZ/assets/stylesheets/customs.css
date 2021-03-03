@@ -80,7 +80,7 @@ article {
   height: 25vw; }
   #showcase-row .showcase:before, #showcase-row .showcase:after {
     content: "";
-    background: #D0755C;
+    background: #929489;
     opacity: .57;
     width: 100%;
     height: 7px;
@@ -173,7 +173,7 @@ ul.gallery .gallery-item {
 .page-item__edit .btn-primary,
 #contact-form .btn-primary,
 #searchForm .btn-primary {
-  background: #D0755C; }
+  background: #929489; }
 
 .readmore:hover,
 .btn-info:hover,

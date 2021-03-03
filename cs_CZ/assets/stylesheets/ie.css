@@ -29,7 +29,7 @@
   max-width: 1000px !important; }
 
 #showcase-row #camera-slideshow {
-  outline: 7px solid #D0755C;
+  outline: 7px solid #929489;
   outline-offset: -7px; }
 
 #showcase-row #camera-slideshow:before,
@@ -51,7 +51,7 @@
   background: url(../images/blockbotie.png) no-repeat; }
 
 #header-row {
-  border-bottom: 7px solid #D0755C; }
+  border-bottom: 7px solid #929489; }
 
 .body__home.view-article #header-row {
-  border-bottom: 7px solid #D0755C; }
+  border-bottom: 7px solid #929489; }

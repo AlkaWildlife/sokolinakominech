@@ -32,7 +32,7 @@ a:focus {
   outline: none; }
 
 a.selected {
-  color: #D0755C;
+  color: #88352B;
   font-weight: bold; }
 
 a:hover {
@@ -47,7 +47,8 @@ body {
   height: auto !important;
   height: 100%;
   margin: 0 auto -49px;
-  background: url(../images/mainbg.png); }
+  background-color: #EEE9DE;
+}
 
 #push,
 #footer-wrapper {
@@ -535,7 +536,7 @@ ul#filters li {
   transition: 0.2s; }
 
 #back-top a:hover {
-  color: #D0755C; }
+  color: #88352B; }
 
 /* arrow icon (span tag) */
 #back-top span {
