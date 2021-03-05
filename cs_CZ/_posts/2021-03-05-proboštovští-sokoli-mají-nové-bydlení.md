@@ -26,6 +26,8 @@ Když na jaře loňského roku Václav Beran objížděl nejrůznější lokalit
 
 Že bude mít ze strany ČEZ Teplárenské sokolí pár klid je samozřejmostí. „_Výtopna je vzhledem k naší moderní ekologické plynové kotelně postavené v Elektrárně Ledvice již mimo provoz, a tak díky záchraně ohroženého živočišného druhu má její komín i nadále smysluplné využití. S instalací budky pochopitelně počítáme už od doby, kdy byl sokolí pár objeven. Pokud letos sokol stěhovavý u nás zahnízdí, budou stejně jako vloni nájemci komína, konkrétně tři mobilní operátoři, informováni o vzniklé situaci. Případné plánované aktivity na ochozech tak budou muset nejdříve konzultovat s námi a hlavně s ornitologem Beranem. Stejně jako naši kolegové v elektrárenských lokalitách máme z výskytu sokola stěhovavého velikou radost a možná jako oni budeme mezi sebou uzavírat sázky, kolik samice snese vajec či kolik mláďat nakonec pár vyvede_,“ uvedl Radim Sobotík, obchodní ředitel ČEZ Teplárenské.
 
+U budky je už frmol, pár dní po instalaci.
+
 ![](/media/pict0672.jpg)
 
 ![](/media/pict0850.jpg)
