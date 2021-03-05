@@ -21,8 +21,6 @@ _Na dně budky je keramzit_
 
 Když už máme vhodnou budku, je třeba ji ještě umístit na vhodné místo. Ideální jsou ochozy komínů. Budka je sice velká, ale sokol také není žádný drobek. Navíc okolí industriálních staveb je často pro sokoly potravně bohaté (sokol loví pouze ve vzduchu, tedy hlavně ptáky či netopýry) a sokoli si tak zde mohou dovolit početnou rodinu. Tři, obvykle však čtyři mláďata jsou v budkách na stavbách standardem. Když sokolíci dorůstají, je v budce pěkně těsno (zkuste vychovat čtyři děti v 1 + KK). Výhodou tedy je, když mláďata mohou z budky vyběhnout na ochoz a zde trénovat křídla a zdokonalovat první letové pokusy. Budky tak v naprosté většině případů instalujeme na ochozy komínů. Pouze výjimečně na chladící věže či jiné objekty (sila, střechy atp.).
 
-
-
 _Instalace budky na ochoze komína má výhody: pracovníci mají prostor při čištění a kontrolách a odrostlejší mláďata mají výběh_
 
 ![čištění budky](/media/komorany_cleaning.jpg "čištění budky")
