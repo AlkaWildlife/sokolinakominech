@@ -27,7 +27,15 @@ Velká počáteční úspěšnost vyvěšování budek spočívala především 
 
 Budky jsou opravdu klíčové, jen výjimečně najdou sokoli na industriální stavbě vhodné místo pro hnízdění. Zatím jsme to zaznamenali pouze třikrát. Vůbec první hnízdění na industriální stavbě v ČR proběhlo ve smotku kabelů satelitu umístěného na ochozu elektrárny Tušimice necelých 300 m nad zemí. Přišli na to náhodou technici firmy, která měla komín bourat. Práce byly okamžitě přerušeny, ale vejce se stejně bohužel nevylíhla, pravděpodobně v tomto nevhodném hnízdě zastydla, byla příliš daleko od sebe a samice je tak nejspíše nezvládala zahřívat. 
 
+_Vejce ve smotku kabelů na ochozu komína elektrárny Tušimice v roce 2010_
+
+![](/media/prvni_hnizdeni_tusimice_620.jpg)
+
 Další, tentokrát úspěšné, hnízdění mimo budku proběhlo na římse kotelny teplárny Komořany v roce 2014. Asi 50 cm široká římsa s orientací na jihovýchod byla pokrytá vrstvou popílku a částečně zarostlá třtinou křovištní. Pod římsou, která je zhruba 30 m vysoko, denně chodilo velké množství lidí, projížděly desítky aut a je zde seřazovací kolejiště. Samice na rušení pod hnízdem vůbec nereagovala a úspěšně vyvedla tři mláďata. Nicméně po instalaci budky na ochoz komína ve výšce 100 m již na římse nikdy nehnízdila a pravidelně vyvádí mláďata v budce. I zde se potvrdilo pravidlo, že čím výše budka je, tím výše sokoli zahnízdí. Druhou budku umístěnou na střeše kotelny, cca 5 m na hnízdní římsou, sokoli od začátku instalace zcela ignorují. 
+
+_Mláďata sokolů na římse kotelny teplárny Komořany_
+
+![](/media/img_3085_620.jpg)
 
 Poslední nám známé hnízdění mimo budku proběhlo v roce 2020 na komínu výtopny Proboštov. Bohužel hnízdění nebylo úspěšné, pravděpodobně právě kvůli absenci budky. V nedalekých Teplicích hnízdí sokoli na komínu sklárny AGC. Z toho důvodu a také kvůli velkému množství telekomunikační techniky, budka na komín v Proboštově instalovalána nebyla. Sokoli to ale vyhodnotili jako vhodný objekt a na začátku března 2020 zde byl objeven pár na komínu. 23. 3. již bylo podle chování zřejmé, že sokoli hnízdí. Pro hnízdění si vybrali chráničku kabelů na betonovém ochozu ve výšce zhruba 70 m. Místo je to těsné a této bytové nouzi sokoli přizpůsobili i velikost snůšky. V hnízdě tak 8. 4. při instalaci fotopasti bylo pouze jedno vejce. To bylo později nalezeno prasklé a zastuzené. 
 
