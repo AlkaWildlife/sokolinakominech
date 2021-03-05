@@ -2,6 +2,7 @@
 title: Sokol
 published: true
 permalink: /sokol
+image: /media/p5060022_620.jpg
 long_title: Sokol stěhovavý v ČR
 description: sokol a člověk - vývoj populace - DDT - návrat - bez budek to nejde
 listed: true
