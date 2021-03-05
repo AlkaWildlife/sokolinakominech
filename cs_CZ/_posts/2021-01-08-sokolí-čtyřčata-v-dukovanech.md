@@ -10,15 +10,11 @@ date: '2021-01-08'
 category: news
 layout: news
 ---
-
+13.5.2020
 
 Letos poprvé zahnízdili sokoli stěhovaví v instalované budce na komíně jaderné elektrárny Dukovany. Ač zde hnízdil mladý pár, úspěšně vychovali hned čtyři mláďata. Dukovanští je pojmenovali Pankrác, Servác, Bonifác a Žofie.
 
-
-
 Energetici v Dukovanech se před třemi lety rozhodli využít výšku ventilačních komínů jaderné elektrárny a na každý umístili jednu budku k zahnízdění. Výsledkem je, že po letech se sokoli vrátili také do kraje Vysočina, odkud v minulosti úplně vymizeli.
-
-
 
 _Samice sokola stěhovavého krmí mláďata_
 
