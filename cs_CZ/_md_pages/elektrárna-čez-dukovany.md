@@ -18,3 +18,9 @@ _Čtyřčata z Dukovan - Pankrác, Servác, Bonifác a Žofie - první novodobá
 ![](/media/p5120008_620.jpg)
 
 ![](/media/img_0949_620.jpg)
+
+
+
+
+
+![](/media/nadacecez.png)
