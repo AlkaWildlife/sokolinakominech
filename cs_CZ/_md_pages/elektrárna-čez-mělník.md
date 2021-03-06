@@ -27,3 +27,7 @@ _mládě z roku 2020_
 _sokol verzus poštolka_
 
 ![](/media/sokol_versus_postolka-620.jpg)
+
+
+
+![](/media/nadacecez.png)
