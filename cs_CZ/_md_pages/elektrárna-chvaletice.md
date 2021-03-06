@@ -14,3 +14,5 @@ Dvě budky na ochozy komína elektrárny Chvaletice skupiny Severní Energetick�
 [Uhli.cz 24.5.2017](https://iuhli.cz/na-komine-chvaletic-cekaji-budky-na-sokoly/)
 
 [denik.cz 5.3.2021](https://www.denik.cz/regiony/hnizdo-ve-160-metrech-hasici-na-kominu-elektrarna-pripravili-budky-sokolu-202103.html)
+
+[idnes.cz 4.3.2021](https://www.idnes.cz/pardubice/zpravy/chvaletice-komin-sokol-stehovavy-budka-lezci.A210304_150312_pardubice-zpravy_lati)
