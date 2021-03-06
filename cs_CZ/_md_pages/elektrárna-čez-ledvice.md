@@ -15,8 +15,6 @@ _Ledvičtí sokolíci_
 
 ![mláďata sokola](/media/sokolici-foto-ez_compressed.jpg "mláďata sokola")
 
-
-
 _páření sokolů_
 
 ![](/media/p1080219_ledvice_pareni_620.jpg)
@@ -29,3 +27,7 @@ _výchova mláďat_
 ![](/media/img_0602_620.jpg)
 
 ![](/media/img_0411-620.jpg)
+
+
+
+![](/media/nadacecez.png)
