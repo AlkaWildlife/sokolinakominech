@@ -10,3 +10,7 @@ position: 43
 layout: two_columns_page
 ---
 budka instalovaná na ochoz komína v březnu 2016 nebyla dosud sokoly obsazena. Každoročně v ní hnízdí poštolky obecné.
+
+
+
+![](/media/nadacecez.png)
