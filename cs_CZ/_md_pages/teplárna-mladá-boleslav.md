@@ -20,3 +20,7 @@ _Kroužkování sokolích mláďat v roce 2020_
 _Již přepeřená mláďata v roce 2020_
 
 ![mláďata sokolů ](/media/sokoli_se_1.jpg "mláďata sokolů ")
+
+
+
+![](/media/se-logo-3d-horizontal-rgb-300dpi_620.jpg)
