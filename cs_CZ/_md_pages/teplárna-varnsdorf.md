@@ -8,3 +8,9 @@ position: 48
 layout: two_columns_page
 ---
 Dřevěnou budku nainstaloval Václav Šena v roce 2016. V roce 2020 byla nahrazena budkou hliníkovou. Hnízdění sokolů nebylo zatím potvrzeno.
+
+
+
+_budka vonící novotou_
+
+![](/media/img_20201002_155759-620.jpg)
