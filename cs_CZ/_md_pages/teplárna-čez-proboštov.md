@@ -12,11 +12,7 @@ layout: two_columns_page
 ---
 Na jaře 2020 bylo prokázáno neúspěšné hnízdění páru sokolů v chráničce kabelů na ochozu komína. Neznačená samice hnízdila se samcem DA, který se narodil v roce 2016 na teplárně Komořany (23 km). Budka zde byla instalována v únoru 2021 a hned je v zájmu sokolů.
 
-
-
 [Proboštovští sokoli mají nové bydlení](/news/proboštovští-sokoli-mají-nové-bydlení)
-
-
 
 _sokolí vejce v chráničce kabelů na ochozu komína v roce 2020_
 
@@ -33,3 +29,7 @@ _již v novém bydlení v roce 2021!_
 ![](/media/pict0716.jpg)
 
 ![](/media/pict0972.jpg)
+
+
+
+![](/media/nadacecez.png)
