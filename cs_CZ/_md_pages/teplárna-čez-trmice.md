@@ -20,8 +20,6 @@ _oba rodiče_
 
 ![](/media/img_0716_620.jpg)
 
-
-
 ![](/media/p4250623_trmice_620.jpg)
 
 _dvě mláďata z roku 2019_
@@ -31,3 +29,7 @@ _dvě mláďata z roku 2019_
 _instalace budky_
 
 ![](/media/uložení-na-místo-montáže.jpg)
+
+
+
+![](/media/nadacecez.png)
