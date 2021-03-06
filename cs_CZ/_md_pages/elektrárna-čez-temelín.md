@@ -13,3 +13,7 @@ Budka instalovaná na ochoz komína v červenci 2017 byla obsazena v roce 2020, 
 ![](/media/pict3405_620.jpg)
 
 ![](/media/pict3427_620.jpg)
+
+
+
+![](/media/nadacecez.png)
