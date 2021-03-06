@@ -16,8 +16,6 @@ Dvě budky byly v prostorách elektrárny Počerady instalovány již v říjnu 
 
 ![](/media/img_0238_620.jpg)
 
-
-
 články v médiích:
 
 [idnes.cz 2020: Sokol na komíně elektrárny zahnízdil nečekaně brzy, vylekal ornitologa](https://www.idnes.cz/usti/zpravy/sokol-ornitolog-hnizdeni-elektrarna-pocerady-komin.A200304_537181_usti-zpravy_pakr)
@@ -25,3 +23,7 @@ Dvě budky byly v prostorách elektrárny Počerady instalovány již v říjnu 
 [cez.cz 2017: Další sokolí potěr v rámci skupiny ČEZ](https://www.cez.cz/cs/pro-media/tiskove-zpravy/elektrarna-pocerady-dalsi-sokoli-poter-v-ramci-skupiny-cez-44158)
 
 [uhli.cz 2017: Počerady přivítaly malého sokolíka](https://iuhli.cz/pocerady-privitaly-maleho-sokolika/)
+
+
+
+![](/media/nadacecez.png)
