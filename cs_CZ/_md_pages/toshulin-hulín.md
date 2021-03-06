@@ -8,3 +8,7 @@ position: 51
 layout: two_columns_page
 ---
 Budka byla nainstalována na ochoz komína v roce 2020. V roce 2020 se zde zdržoval nehnízdící sokol.
+
+
+
+![](/media/p3091092-620.jpg)
