@@ -13,4 +13,6 @@ Budka na ochoz komína byla nainstalována v dubnu 2016 jako reakce na zabrání
 
 
 
+_instalace budky_
+
 ![](/media/prunerov-i-instalace-nahradni-budky_denik-630.jpg)
