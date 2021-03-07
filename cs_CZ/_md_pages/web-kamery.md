@@ -13,4 +13,4 @@ Níže uvádíme odkazy na funkční online web kamery.
 
 ## [![Teplárna Mladá Boleslav](/media/kartička_kamera_mb.jpg)](http://sko-energo.cz/cs/sokoli)
 
-## [![Chempark Záluží](/media/kartička_zaluzi.jpg)](https://www.unipetrol.cz/cs/zodpovedna_firma/Stranky/Starame-se-o-sokoly.aspx)
+## [![Chempark Záluží](/media/kartička_zaluzi.jpg)](https://www.unipetrol.cz/cs/zodpovedna_firma/test.aspx)
