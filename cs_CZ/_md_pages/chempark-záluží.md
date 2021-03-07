@@ -14,7 +14,7 @@ V březnu roku 2011 byly instalovány v areálu dvě budky pro sokoly. Jedna na 
 
 - - -
 
-\***\*[**zajímavé záběry z online kamery**](https://www.unipetrol.cz/cs/zodpovedna_firma/Stranky/starame-se-o-sokoly-to-nejzajimavejsi.aspx)\*\***
+\***\*[**zajímavé záběry z online kamery**](https://www.orlenunipetrol.cz/cs/zodpovedna_firma/zivotni-prostredi/starame-se-o-sokoly/Stranky/zajimavosti-z-budky-v-chemparku-zaluzi.aspx)\*\***
 
 - - -
 
