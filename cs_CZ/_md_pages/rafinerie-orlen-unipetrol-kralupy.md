@@ -10,11 +10,7 @@ layout: two_columns_page
 ---
 Dvě budky instalovány v lednu roku 2017. Jedna na komín, druhá na ochoz zásobníku. Pár se zde o hnízdění prokazatelně pokoušel o roku 2017, hnízdění ale nikdy nebylo úspěšné. Samec hnízdící v roce 2020 se narodil v roce 2015 na komíně v Michli.
 
-
-
-\***\*[**krásné video reportáže Unipetrolu o životě sokolů**](https://www.orlenunipetrol.cz/cs/zodpovedna_firma/zivotni-prostredi/starame-se-o-sokoly/Stranky/Starame-se-o-sokoly.aspx)\*\***
-
-
+[**krásné video reportáže Unipetrolu o životě sokolů**](https://www.orlenunipetrol.cz/cs/zodpovedna_firma/zivotni-prostredi/starame-se-o-sokoly/Stranky/Starame-se-o-sokoly.aspx)
 
 ![](/media/pict0722.jpg)
 
