@@ -1,20 +1,32 @@
+source: cs_CZ
+destination: _site.cs_CZ
+
 title: Sokoli na komínech
 description: >-
-  Záchrana kriticky ohroženého sokola stěhovavého. Pomoc sokolům ve městech a
-  průmyslových areálech.
-url: 'https://www.sokolinakominech.cz'
+  Záchrana sysla obecného v naší krajině a podpora vinařů, kteří na
+  svých vinohradech sysla mají.
+baseurl: ""
+url: https://www.sokolinakominech.cz
+author: alka-wildlife
 logo: /media/sysli_na_vinici_logo_200.jpg
 lang: cs_CZ
+
 lang_alternatives: []
-author: alka-wildlife
+# - lang: en_GB
+#   label: Switch to English
+#   title: "Visit an English version of this page: %@"
+#   url: https://en.sokolinakominech.cz
+#   icon: /assets/images/flag_uk.png
+
+# Integrations and machine-readable metadata
 facebook:
-  admins: 1133305906
   app_id: 145375228868712
   publisher: 269120446533000
+  admins: 1133305906
 social:
+  name: ALKA Wildlife, o.p.s.
   links:
-    - 'https://www.facebook.com/AlkaWildlife'
-  name: 'ALKA Wildlife, o.p.s.'
+    - https://www.facebook.com/AlkaWildlife
 webmaster_verifications:
   google: o27dsTgYww0bzXVmTZ_CgadoY8QtzpDMgo-bVSgH3OM
 google_analytics: G-4ZMCQP7J5D
