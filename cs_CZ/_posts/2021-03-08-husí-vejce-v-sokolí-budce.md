@@ -20,8 +20,6 @@ _transport budky_
 
 ![transport budky](/media/transport-sokoli-budky_620.jpg "transport budky")
 
-
-
 Václav Beran při přesunu nejdříve za pozemní asistence kolegy Michala Porteše snesl s pomocí horolezeckého lan budku z původní počeradské chladící věže. Oba ornitology přitom čekalo během prohlídky budky se zbytky keramzitu (podklad v budce) obrovské a opravdu nečekané překvapení. Pod jeho vrstvou bylo totiž v budce zahrabáno několik velikých bílých vajec. „Tak to jsem ještě neviděl, to vypadá na husí vejce,“ zavrtěl nevěřícně hlavou Michal Porteš a stejně tak se k němu přidal i Václav Beran: „Loňská snůška sedmi vajec husy veliké, v sokolí budce, a ještě k tomu sedmdesát metrů vysoko. Tak tomu opravdu říkám ornitologický unikát.“. Husy totiž nehnízdí takto vysoko jako sokoli, málokterý pták hnízdí takto vysoko. Normálně si husy stavějí hnízdo z rákosových stébel a větviček u vody, na vrbách, na ostrůvcích pod keři. 
 
  „Sokol kolem chladicí věže zrovna poletoval, ale příliš nadějí na jeho zahnízdění právě v této přemístěné budce nedávám. Pár totiž víceméně úspěšně vyvádí své mladé na nedalekém komínu, kde má budku již řadu let. Když ale v budce zahnízdí poštolky, bude jen dobře, neboť i těch ubývá,“ konstatoval po instalaci ornitolog Václav Beran. Poštolky budky instalované pro sokoly obsazují na rozdíl od hus často.
