@@ -25,3 +25,7 @@ Václav Beran při přesunu nejdříve za pozemní asistence kolegy Michala Port
  „_Sokol kolem chladicí věže zrovna poletoval, ale příliš nadějí na jeho zahnízdění právě v této přemístěné budce nedávám. Pár totiž víceméně úspěšně vyvádí své mladé na nedalekém komínu, kde má budku již řadu let. Když ale v budce zahnízdí poštolky, bude jen dobře, neboť i těch ubývá_,“ konstatoval po instalaci ornitolog Václav Beran. Poštolky budky instalované pro sokoly obsazují na rozdíl od hus často.
 
 ![](/media/priprava_budky_620.jpg)
+
+
+
+více také v reportáži na [TVNOVA](https://tn.nova.cz/clanek/unikatni-objev-v-sokolim-hnizde-podobny-nalez-se-jeste-nepodaril.html)
