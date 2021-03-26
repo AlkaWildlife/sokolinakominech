@@ -7,7 +7,7 @@ description: budka nainstalována v prosinci 2020
 position: 31
 layout: two_columns_page
 ---
-Budka nainstalována v prosinci 2020, v roce 2020 se zde zdržoval teriotoriální pár.
+Budka nainstalována v prosinci 2020, v roce 2020 se zde zdržoval teritoriální pár.
 
 Zdá se, že v roce 2021 zde sokoli budou hnízdit, můžete je sledovat online kamerou. 
 
