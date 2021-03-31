@@ -12,6 +12,8 @@ Dvě budky na komín a nefunkční kolonu byly instalovány v listopadu 2014. V 
 
 [**reportáže Unipetrolu ze života sokolů**](https://www.orlenunipetrol.cz/cs/zodpovedna_firma/zivotni-prostredi/starame-se-o-sokoly/Stranky/Starame-se-o-sokoly.aspx)
 
+[**web kamera živě**](https://www.orlenunipetrol.cz/cs/zodpovedna_firma/zivotni-prostredi/starame-se-o-sokoly/Stranky/zajimavosti-z-budky-ve-spolane-neratovice.aspx)
+
 ![](/media/pict1418_620.jpg)
 
 ![](/media/pict1456_620.jpg)
