@@ -25,3 +25,11 @@ Zhruba za tři týdny ornitolog mláďata okroužkuje. To už bude jasné, v jak
 „_Z narození třetí generace mláďat máme velkou radost, protože jde o dílčí metu odpovědného přístupu k životnímu prostředí, který je přirozenou součástí naší práce,_“ uvedl Tomáš Kollarczyk, místopředseda představenstva městské teplárny. Připomněl přitom ekologizaci vlastního provozu nebo dokončenou rekultivaci odkaliště u Hodějovic a jeho začlenění zpět do přírody. 
 Na projektu, který přispívá k záchraně ohroženého dravce, se Teplárna České Budějovice podílí od prosince 2016, kdy byla na ochozu 160 metrového komínu umístěna speciální hliníková budka. V červnu 2017 se v ní objevila první sokolí samice a každý další rok na podzim opět. Předloni se utvořil i sokolí pár, zahnízdil a od té doby se k teplárenskému komínu každoročně vrací. 
 Zatím se neví, jaké je pohlaví mláďat. To se pozná až při kroužkování. Do té doby lze tipovat na [Facebooku teplárny](https://www.facebook.com/teplarna) a soutěžit o rodinné vstupenky do ZOO Hluboká. Dění v sokolím příbytku lze sledovat na webu <http://hnizdo.zevovrato.cz/>
+
+
+
+_krmení tří hladových krků_
+
+![](/media/cb_2021_krmeni_02.jpg)
+
+![](/media/cb_2021_krmeni_01.jpg)
