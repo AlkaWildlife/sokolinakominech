@@ -7,7 +7,7 @@ description: >-
   Hnízdní sezóna pro sokoly právě začíná. Část sokolích slečen už zasedla na
   vejce. 
 date: '2021-03-27'
-logoset: MZP
+logoset: MŽP
 category: news
 layout: news
 ---
