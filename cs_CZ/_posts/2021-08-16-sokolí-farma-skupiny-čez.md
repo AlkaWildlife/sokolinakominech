@@ -13,6 +13,8 @@ layout: news
 ---
 _Jedno z trojčat, která se vyklubala na svět v budce na komínu bývalé výtopny ČEZ Teplárenské v Proboštově._
 
+<br/>
+
 Rovná desetina ze stovky ornitology registrovaných sokolích párů v Čechách a na Moravě zahnízdila i letos na výškových industriálních stavbách Skupiny ČEZ. Konkrétně na severu Čech to bylo v lokalitě elektráren Prunéřov, Tušimice, Počerady a Ledvice, bývalé výtopny v Proboštově a Teplárny Trmice. Do světa se jen z těchto lokalit rozletělo 16 sokolích juniorů či juniorek. Další tři mláďata se pak vyklubala na svět v areálu společnosti Energotrans v Třeboradicích u Prahy. Celkem si tak „sokolí farma“ Skupiny ČEZ připsala dalších 19 sokolíků, čímž od roku 2011 dosáhla oficiálního čísla 114 „odchovaných“ kriticky ohrožených sokolů.
 
 „_Neoficiálně může být ovšem mláďat daleko více. Ze začátku, když se naše spolupráce se Skupinou ČEZ teprve rozjížděla, jsme je jen počítali pomocí dalekohledů. Klidně se tedy mohlo stát, že nám nějaké mládě v sokolí budce uniklo, neboť bylo schoulené pod či za svými sourozenci. Jejich přesný počet zaznamenáváme až od doby, kdy nám Nadace ČEZ začala pravidelně přispívat na monitoring, tudíž jsme mohli nakoupit fotopasti. Zcela přesné počty pak máme hlavně od doby, kdy jsem začal mláďata kroužkovat. Nebál bych se tedy říct, že celkový počet sokolů z elektrárenských lokalit, byl vyšší. Klidně bych to odhadl i na 120, možná ještě i o něco více mláďat_,“ říká ornitolog Václav Beran, výzkumný pracovník ALKA Wildlife, o. p. s., jinak také zoolog a kurátor sbírky Muzea města Ústí nad Labem.
@@ -23,35 +25,37 @@ Velikou radost mu ovšem udělal pár z komína bývalé výtopny ČEZ Tepláren
 
 Stejně tak i sokolí budky v elektrárnách Dětmarovice a Poříčí. „_Tam jsme zatím pohyb sokola stěhovavého ještě nezaznamenali. Na severu jim už ale začíná být těsno, takže možná se časem dostane nějaký pár i do východních Čech a možná i na sever Moravy. Ostatně jedno z počeradských mláďat   doletělo v minulosti až do Francie, tak proč by nemohlo některé, dejme tomu z Proboštova, zamířit k Dětmarovicím a cestou si najít nějaký sympatický protějšek, třeba z Polska,_“ uzavírá s úsměvem ornitolog Beran.
 
-__
+<br/>
 
 _Vyjukaní sokolíci z Elektrárny Lednice. Ze snímku je vidět ještě jedno vejce, pravděpodobně bylo neoplozené._
 
 ![](/media/sokolici-z-elektrarny-ledvice.jpg)
 
-__
+<br/>
 
 _Ledvická trojčata už po kroužkování._
 
 ![](/media/ledvicka-trojcata-po-okrouzkovani.jpg)
 
-__
+<br/>
 
 _Prunéřovským čtyřčatům se nelíbili, když jim Václav Beran nakoukl do jejich jednopokojového bytu. Kroužky je ale neminuly._
 
 ![](/media/prunerovska-ctyrcata.jpg)
 
+<br/>
+
 _Prakticky hned po instalaci budky na chladící věži Paraplynového cyklu v Počeradech se zabydleli Ledvík a Rexa. Bohužel jejich snaha o zahnízdění letos vyšla naprázdno._
 
 ![](/media/ledvik-a-rexa-paroplynovy-cyklus-pocerady.jpg)
 
-__
+<br/>
 
 _Po vyhnízdění následuje čištění budky a dodání nového keramzitu. Tato budka v Elektrárně Tušimice se navíc letos přesunula z chladící věže 4 na věž číslo 2._ 
 
 ![](/media/cisteni-budky.jpg)
 
-__
+<br/>
 
 _Při čištění budky jsou zkontrolovány také zbytky potravy (kosti, peří)._ 
 
