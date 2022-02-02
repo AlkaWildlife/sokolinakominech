@@ -1,6 +1,6 @@
 ---
 title: Sokoli z Litvínova uspěli v Czech Press Photo
-published: false
+published: true
 image: /media/czech-press-photo_michal-turek_620.jpg
 listing_thumbnail: /media/czech-press-photo_michal-turek_274jpg.jpg
 description: >-
