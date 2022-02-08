@@ -1,7 +1,8 @@
 ---
 title: Přednáška o sokolech na Youtube
-published: false
-image: /media/imag1842_620.jpg
+published: true
+image: /media/beran_sokol_prezentace_620.jpg
+listing_thumbnail: /media/beran_sokol_prezentace_274.jpg
 description: Přednáška v angličtině o sokolech od Václava Berana na Youtube
 date: '2021-12-20'
 category: news
