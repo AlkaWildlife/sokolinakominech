@@ -7,7 +7,7 @@ description: >-
   První větší sokolí misi má za sebou Václav Beran, konkrétně do jaderné
   elektrárny Temelín, kde vyčistil sokolí budku a nainstaloval fotopast.
 date: '2022-02-15'
-logoset: ''
+logoset: ČEZ
 category: news
 layout: news
 ---
