@@ -14,9 +14,9 @@ První vejce zaznamenané v hnízdních budkách v roce 2022 je v budce AGC Tepl
 
 Vejce odhalila kamera, když se samička zvedla provětrat. Samička je neznačená, tedy o ni nic nevíme. Samce ale známe, má kroužek MZ a víme, že v této budce hnízdí již od roku 2018.  
 
-__
 
-_ještě 4.3. v budce, kterou hlídá samec na zábradlí nic nebylo_
+
+_ještě 4.3. v budce, kterou hlídá samec na zábradlí, nic nebylo_
 
 ![](/media/samec_mz_agc_teplice_4_3_2022.jpg)
 
