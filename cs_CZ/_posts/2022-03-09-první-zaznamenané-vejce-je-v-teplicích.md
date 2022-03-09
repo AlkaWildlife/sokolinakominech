@@ -1,5 +1,5 @@
 ---
-title: První zaznamenané vejce je v Teplicích
+title: První letošní vejce je v Teplicích
 published: true
 image: /media/teplice_7_3_2021_samice_samec_vejce.jpg
 listing_thumbnail: /media/teplice_7_3_2021_samice_samec_vejce_274.jpg
