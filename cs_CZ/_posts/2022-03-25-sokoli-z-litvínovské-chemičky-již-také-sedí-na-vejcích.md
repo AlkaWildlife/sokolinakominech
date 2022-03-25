@@ -1,9 +1,11 @@
 ---
-title: Sokoli z litvínovské chemičky již také sedí na vejcích
+title: Sokoli z Litvínova již také sedí na vejcích
 published: true
 image: /media/01-sokol_620.jpg
 listing_thumbnail: /media/01-sokol_274.jpg
-description: Již můžete sledovat v přímém přenosu hnízdění sokolů.
+description: >-
+  Již můžete sledovat v přímém přenosu hnízdění sokolů, například v Litvínovské
+  chemičce.
 date: '2022-03-25'
 category: news
 layout: news
