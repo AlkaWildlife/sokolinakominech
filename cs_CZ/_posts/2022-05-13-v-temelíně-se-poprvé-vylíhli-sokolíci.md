@@ -17,3 +17,7 @@ Temelínskému páru se mládě narodilo po dvou letech hnízdění. Energetici 
 V budce na stometrovém ventilačním komíně elektrárny se mláďata zdrží asi měsíc a půl. Pak rodné hnízdo opustí. "_První dva roky bývají sokoli hodně bouřliví, různě se potulují, uletí třeba i stovky kilometrů. Výjimkou tak není, že na ně narazí třeba kolegové z Francie. Hnízdit začínají kolem třetího roku života_," řekl Beran.
 
 ![](/media/vaclavberan-sokoli-temelin.jpg)
+
+
+
+Reportáž přímo z kroužkování na komíně můžete shlédnout např. [na ČT24](https://ct24.ceskatelevize.cz/3484272-na-komine-jaderne-elektrarny-temelin-se-vylihla-prvni-sokoli-mladata)
