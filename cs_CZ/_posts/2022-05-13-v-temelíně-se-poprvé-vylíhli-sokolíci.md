@@ -5,6 +5,7 @@ image: /media/sokoli_temelin_2022_01.jpg
 listing_thumbnail: /media/sokoli_temelin_2022_01_274.jpg
 description: 'Po dvou letech hnízdění se dočkali sokolích mláďat i v Temelíně '
 date: '2022-05-13'
+logoset: CEZ
 category: news
 layout: news
 ---
