@@ -2,7 +2,7 @@
 title: Teplárna Mladá Boleslav
 published: true
 permalink: /budky/skoenergo
-long_title: Teplárna ŠKO-ENERGO Mladá Boleslav
+long_title: 'Teplárna ŠKO-ENERGO,s.r.o. Mladá Boleslav'
 description: >-
   Dvě budky byly na komín instalovány v roce 2014. Hnízdění je možné sledovat
   online pomocí kamery.
@@ -20,7 +20,5 @@ _Kroužkování sokolích mláďat v roce 2020_
 _Již přepeřená mláďata v roce 2020_
 
 ![mláďata sokolů ](/media/sokoli_se_1.jpg "mláďata sokolů ")
-
-
 
 ![](/media/se-logo-3d-horizontal-rgb-300dpi_620.jpg)
