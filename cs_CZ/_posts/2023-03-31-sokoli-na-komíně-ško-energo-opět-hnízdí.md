@@ -5,6 +5,7 @@ image: /media/mb_2_620.jpg
 listing_thumbnail: /media/mb_2_274jpg.jpg
 description: Na komín teplárny Ško-Energo se po dvou letech vrátili sokoli.
 date: '2023-03-31'
+logoset: ŠKO-Energo
 category: news
 layout: news
 ---
