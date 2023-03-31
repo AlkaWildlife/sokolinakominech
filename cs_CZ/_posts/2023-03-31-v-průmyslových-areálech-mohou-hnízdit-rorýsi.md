@@ -7,6 +7,7 @@ description: >-
   V průmyslových areálech mohou najít domov i další druhy ohrožených ptáků,
   nejen sokoli. V JE Temelín jim instalovali budky.
 date: '2023-03-31'
+logoset: ČEZ
 category: news
 layout: news
 ---
