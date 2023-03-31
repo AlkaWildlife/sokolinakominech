@@ -22,10 +22,6 @@ V Temelíně už také vyhlíží sokoly. „_Hnízdo v Temelíně jsem zkontrol
 
 Sokoli v Temelíně poprvé zahnízdili před třemi roky, první tři mláďata z elektrárenského provozu vzlétla loni.
 
-
-
-
-
 _detailnější pohled na budky pro rorýsy_
 
 ![](/media/budky_pro_rorysy_v.jpg)
