@@ -9,7 +9,7 @@ U některých hnízdních budek se postupně instalují fotopasti či i web kame
 
 Níže se dostanete na jednotlivé web kamery s živým přenosem:
 
-## [![Teplárna Mladá Boleslav](/media/karticka_škodaenergo.jpg)](http://sko-energo.cz/cs/sokoli)
+## [![Teplárna Mladá Boleslav](/media/karticka_škodaenergo.jpg)](https://g0.ipcamlive.com/player/player.php?alias=640b0ad985856)
 
 ## [![Teplárna Veolia](/media/karticka_veolia.jpg)](https://www.youtube.com/watch?v=YP4YcapcDhI)
 
