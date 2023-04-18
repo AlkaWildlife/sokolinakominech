@@ -25,3 +25,4 @@ Níže se dostanete na jednotlivé web kamery s živým přenosem:
 
 ## [![Tonaso Neštěmice](/media/karticka_tonaso.jpg)](https://rtsp.me/embed/HNYsSKfR/)
 
+## [![Tonaso Neštěmice](/media/karticka_termo.jpg)](http://sokoli.jaw.cz/)
