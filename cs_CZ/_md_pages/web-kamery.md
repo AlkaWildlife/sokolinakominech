@@ -21,7 +21,7 @@ Níže se dostanete na jednotlivé web kamery s živým přenosem:
 
 ## [![ORLEN Kralupy nad Vltavou](/media/karticka_orlen_rafinerie.jpg)](https://www.orlenunipetrol.cz/cs/zodpovedna_firma/zivotni-prostredi/starame-se-o-sokoly/Stranky/zajimavosti-z-budky-v-kralupech-nad-vltavou.aspx)
 
-## [![Spolana Neratovice](//media/karticka_spolana.jpg)](https://www.orlenunipetrol.cz/cs/zodpovedna_firma/zivotni-prostredi/starame-se-o-sokoly/Stranky/zajimavosti-z-budky-ve-spolane-neratovice.aspx)
+## [![Spolana Neratovice](/media/karticka_spolana.jpg)](https://www.orlenunipetrol.cz/cs/zodpovedna_firma/zivotni-prostredi/starame-se-o-sokoly/Stranky/zajimavosti-z-budky-ve-spolane-neratovice.aspx)
 
 ## [![Tonaso Neštěmice](/media/karticka_tonaso.jpg)](https://rtsp.me/embed/HNYsSKfR/)
 
