@@ -9,11 +9,14 @@ U některých hnízdních budek se postupně instalují fotopasti či i web kame
 
 Níže se dostanete na jednotlivé web kamery s živým přenosem:
 
+## [![Teplárna Mladá Boleslav](/media/karticka_škodaenergo.jpg)](http://sko-energo.cz/cs/sokoli)
+
+## [![Teplárna Veolia](/media/karticka_veolia.jpg)](https://www.youtube.com/watch?v=YP4YcapcDhI)
 
 
 ## [![Teplárna České Budějovice](/media/karticka_teplarnacb.jpg)](https://www.teplarna-cb.cz/webkamery/)
 
-## [![Tonaso Neštěmice](/media/karticka_tonaso.jpg)](https://rtsp.me/embed/HNYsSKfR/) 
+## [![Tonaso Neštěmice](/media/karticka_tonaso.jpg)](https://rtsp.me/embed/HNYsSKfR/)
 
 ## [![Chempark Záluží](/media/karticka_orlen_chempark.jpg)](https://www.orlenunipetrol.cz/cs/zodpovedna_firma/zivotni-prostredi/starame-se-o-sokoly/Stranky/zajimavosti-z-budky-v-chemparku-zaluzi.aspx)
 
