@@ -7,7 +7,7 @@ description: >-
   V jaderné elektrárně Temelín se vylíhlo jedno mládě sokola, dostalo jméno
   Laura.
 date: '2023-06-18'
-logoset: ''
+logoset: ČEZ
 category: news
 layout: news
 ---
