@@ -7,9 +7,7 @@ layout: single_column_page
 ---
 U některých hnízdních budek se postupně instalují fotopasti či i web kamery s online přenosem. 
 
-Níže se dostanete na jednotlivé web kamery s živým přenosem:
-
-## [![Teplárna Mladá Boleslav](/media/karticka_škodaenergo.jpg)](https://g0.ipcamlive.com/player/player.php?alias=640b0ad985856)
+Níže se dostanete na jednotlivé web kamery s živým přenosem. Většina z nich se zapíná jen na období hnízdění. Zhruba od července do ledna bývají vypnuté.
 
 ## [![Teplárna Veolia](/media/karticka_veolia.jpg)](https://www.youtube.com/watch?v=YP4YcapcDhI)
 
