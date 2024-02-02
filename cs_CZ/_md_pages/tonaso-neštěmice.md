@@ -9,6 +9,6 @@ layout: two_columns_page
 ---
 Budka nainstalována v prosinci 2020, v roce 2020 se zde zdržoval teritoriální pár.
 
-Zdá se, že v roce 2021 zde sokoli budou hnízdit, můžete je sledovat online kamerou. 
+Poprvé zde hnízdili sokoli v roce 2021.
 
-<iframe width = "640" height = "480" src = "https://rtsp.me/embed/HNYsSKfR/" frameborder = "0" allowfullscreen> </iframe>
+Hnízdění je možné sledovat s pomocí [ONLINE KAMERY](https://www.tonaso.cz/cz/novinky/sokol-stehovavy).
