@@ -21,6 +21,6 @@ Níže se dostanete na jednotlivé web kamery s živým přenosem. Většina z n
 
 ## [![Spolana Neratovice](/media/karticka_spolana.jpg)](https://www.orlenunipetrol.cz/cs/zodpovedna_firma/zivotni-prostredi/starame-se-o-sokoly/Stranky/zajimavosti-z-budky-ve-spolane-neratovice.aspx)
 
-## [![Tonaso Neštěmice](/media/karticka_tonaso.jpg)](https://rtsp.me/embed/HNYsSKfR/)
+## [![Tonaso Neštěmice](/media/karticka_tonaso.jpg)](https://www.tonaso.cz/cz/novinky/sokol-stehovavy)
 
-## [![Tonaso Neštěmice](/media/karticka_termo.jpg)](http://sokoli.jaw.cz/)
+## [![Teplárna Termo](/media/karticka_termo.jpg)](http://sokoli.jaw.cz/)
