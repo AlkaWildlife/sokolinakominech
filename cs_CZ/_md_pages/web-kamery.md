@@ -9,6 +9,9 @@ U některých hnízdních budek se postupně instalují fotopasti či i web kame
 
 Níže se dostanete na jednotlivé web kamery s živým přenosem. Většina z nich se zapíná jen na období hnízdění. Zhruba od července do ledna bývají vypnuté.
 
+
+## [![ŠKODA-ENERGO](/media/karticka_škodaenergo.jpg)](https://www.sko-energo.cz/online-kamera/)
+
 ## [![Teplárna Veolia](/media/karticka_veolia.jpg)](https://www.youtube.com/watch?v=YP4YcapcDhI)
 
 ## [![Teplárna České Budějovice](/media/karticka_teplarnacb.jpg)](https://www.teplarna-cb.cz/webkamery/)
