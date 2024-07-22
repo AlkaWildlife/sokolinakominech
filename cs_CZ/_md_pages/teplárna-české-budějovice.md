@@ -8,7 +8,6 @@ layout: two_columns_page
 ---
 Instalace budky na ochoz komína proběhla v prosinci 2016. V roce 2018 se zde vyskytovala nehnízdící samice, od roku 2019 již probíhá každoročně hnízdění. 
 
-
 [Webová stránka o této budce včetně rozsáhlé fotogalerie](https://www.zevovrato.cz/hnizdo/)
 
 __
