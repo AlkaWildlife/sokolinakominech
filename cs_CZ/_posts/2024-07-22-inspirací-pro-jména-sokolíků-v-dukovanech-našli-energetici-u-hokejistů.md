@@ -1,5 +1,5 @@
 ---
-title: 'Inspirací pro jména sokolíků v Dukovanech našli energetici u hokejistů '
+title: 'Inspirací pro jména našli energetici u hokejistů '
 published: true
 image: /media/dukovany-ctyri-mladata_hokeji_620.jpg
 listing_thumbnail: /media/dukovany-ctyri-mladata-hokeji_274.jpg
