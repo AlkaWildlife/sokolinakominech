@@ -5,6 +5,7 @@ image: /media/dukovany-ctyri-mladata_hokeji_620.jpg
 listing_thumbnail: /media/dukovany-ctyri-mladata-hokeji_274.jpg
 description: V Dukovanech sokolí pár už potřetí vyseděl další čtyřčata.
 date: '2024-06-01'
+logoset: ČEZ
 category: news
 layout: news
 ---
