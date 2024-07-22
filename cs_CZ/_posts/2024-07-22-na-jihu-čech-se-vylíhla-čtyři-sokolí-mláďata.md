@@ -1,5 +1,5 @@
 ---
-title: Na jihu Čech se vylíhla čtyři sokolí mláďata.
+title: Na jihu Čech se vylíhla čtyři sokolí mláďata
 published: true
 image: /media/f5drkg9f_620.jpg
 listing_thumbnail: /media/f5drkg9f_274.jpg
