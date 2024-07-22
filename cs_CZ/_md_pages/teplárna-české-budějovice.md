@@ -10,7 +10,11 @@ Instalace budky na ochoz komína proběhla v prosinci 2016. V roce 2018 se zde v
 
 [Webová stránka o této budce včetně rozsáhlé fotogalerie](https://www.zevovrato.cz/hnizdo/)
 
-__
+## Aktuality:
+
+[2024: Na jihu Čech se vylíhla čtyři sokolí mláďata](https://sokolinakominech.cz/news/na-jihu-%C4%8Dech-se-vyl%C3%ADhla-%C4%8Dty%C5%99i-sokol%C3%AD-ml%C3%A1%C4%8Fata) 
+
+[2021: Na komínu Vráto se již narodila mláďata](https://sokolinakominech.cz/news/na-kom%C3%ADnu-vr%C3%A1to-se-ji%C5%BE-narodila-ml%C3%A1%C4%8Fata)
 
 _Mláďata z roku 2019_
 
