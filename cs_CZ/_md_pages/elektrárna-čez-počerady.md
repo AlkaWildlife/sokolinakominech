@@ -1,5 +1,5 @@
 ---
-title: Elektrárna ČEZ Počerady
+title: Elektrárna Počerady
 published: true
 permalink: /budky/cez-pocerady
 description: 'Dvě budky byly v prostorách elektrárny Počerady instalovány již v roce 2011. '
@@ -24,6 +24,8 @@ Dvě budky byly v prostorách elektrárny Počerady instalovány již v říjnu 
 
 [uhli.cz 2017: Počerady přivítaly malého sokolíka](https://iuhli.cz/pocerady-privitaly-maleho-sokolika/)
 
-
+Elektrárna i se sokolími budkami byla provozována nejprve společností ČEZ, po převodu společností Sev.en.
 
 ![](/media/nadacecez.png)
+
+![](/media/logo_elektrarnapocerady_300.jpg)
