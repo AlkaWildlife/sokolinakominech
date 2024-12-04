@@ -10,6 +10,12 @@ layout: two_columns_page
 ---
 Dvě budky na ochozy komína elektrárny Chvaletice skupiny Severní Energetická byly nainstalovány v dubnu 2017. V roce 2018 zde byla zjištěna samice, v roce 2019 nebyla lokalita sledována a v roce 2020 se zde vyskytoval nehnízdící pár. Jak bylo zjištěno později v létě, v budkách chyběla výstelka a nebyly tedy pro hnízdění vhodné. 
 
+V roce 2024 se na komíně ve výšce 150 m narodila čtyři mláďata. Na první fotce z dronu vidíte mláďata, kterým bylo teprve deset dní. Na druhé fotografii jsou mláďata měsíc stará. 
+
+![](/media/441461026_1217510919577370_6212876314767178663_n.jpg)
+
+![](/media/442416341_1217510976244031_852260856341622012_n.jpg)
+
 články v médiích:
 
 [Uhli.cz 24.5.2017 Na komíně Chvaletic čekají budky na sokoly](https://iuhli.cz/na-komine-chvaletic-cekaji-budky-na-sokoly/)
