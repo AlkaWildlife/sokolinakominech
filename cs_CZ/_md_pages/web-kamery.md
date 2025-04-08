@@ -11,7 +11,7 @@ Níže se dostanete na jednotlivé web kamery s živým přenosem. Většina z n
 
 ## [![ŠKODA-ENERGO](/media/karticka_škodaenergo.jpg)](https://www.sko-energo.cz/online-kamera/)
 
-## [![Teplárna Veolia](/media/karticka_veolia.jpg)](https://www.youtube.com/watch?v=YP4YcapcDhI)
+## [![Teplárna Veolia](/media/karticka_veolia.jpg)](https://www.youtube.com/live/NNxpngeoui4?si=ubm8dxIQZ-Zbtzvh)
 
 ## [![Teplárna Litoměřice](/media/karticka_Litomerice.jpg)](https://enh.enetiqa.cz/webkamera/#ptaci_hnizdo)
 
