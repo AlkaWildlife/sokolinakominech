@@ -9,10 +9,13 @@ U některých hnízdních budek se postupně instalují fotopasti či i web kame
 
 Níže se dostanete na jednotlivé web kamery s živým přenosem. Většina z nich se zapíná jen na období hnízdění. Zhruba od července do ledna bývají vypnuté.
 
-
 ## [![ŠKODA-ENERGO](/media/karticka_škodaenergo.jpg)](https://www.sko-energo.cz/online-kamera/)
 
 ## [![Teplárna Veolia](/media/karticka_veolia.jpg)](https://www.youtube.com/watch?v=YP4YcapcDhI)
+
+## [![Teplárna Litoměřice](/media/karticka_Litomerice.jpg)](https://enh.enetiqa.cz/webkamera/#ptaci_hnizdo)
+
+## [![Cementárna Cemex](/media/karticka_cemex.jpg)](https://www.youtube.com/live/Ys_OLo333Es?si=Vf4FEi4-QRx5rFJG)
 
 ## [![Chempark Záluží](/media/karticka_orlen_chempark.jpg)](https://www.orlenunipetrol.cz/cs/zodpovedna_firma/zivotni-prostredi/starame-se-o-sokoly/Stranky/zajimavosti-z-budky-v-chemparku-zaluzi.aspx)
 
