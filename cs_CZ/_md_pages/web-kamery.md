@@ -10,6 +10,8 @@ U některých hnízdních budek se postupně instalují fotopasti či i web kame
 
 Níže se dostanete na jednotlivé web kamery s živým přenosem. Většina z nich se zapíná jen na období hnízdění. Zhruba od července do ledna bývají vypnuté.
 
+## [![C-ENERGY](/media/karticka_cenergy.jpg)](http://www.c-energy.cz/novinky/sokoli-reality-show-2026-zacala)
+
 ## [![ŠKODA-ENERGO](/media/karticka_škodaenergo.jpg)](https://www.sko-energo.cz/online-kamera/)
 
 ## [![Teplárna Termo](/media/karticka_termo.jpg)](http://sokoli.jaw.cz/)
