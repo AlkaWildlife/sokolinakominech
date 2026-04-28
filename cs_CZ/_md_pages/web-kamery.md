@@ -14,9 +14,7 @@ Níže se dostanete na jednotlivé web kamery s živým přenosem. Většina z n
 
 ## [![ŠKODA-ENERGO](/media/karticka_škodaenergo.jpg)](https://www.sko-energo.cz/online-kamera/)
 
-## [![Teplárna Termo](/media/karticka_termo.jpg)](http://sokoli.jaw.cz/)
-
-## [![Teplárna Litoměřice](/media/karticka_Litomerice.jpg)](https://enh.enetiqa.cz/webkamera/#ptaci_hnizdo)
+## [![Teplárna Veolia](/media/karticka_Veolia.jpg)](https://www.youtube.com/watch?v=Wm6zQTyIQbE)
 
 ## [![Chempark Záluží](/media/karticka_orlen_chempark.jpg)](https://www.orlenunipetrol.cz/cs/zodpovedna_firma/zivotni-prostredi/starame-se-o-sokoly/Stranky/zajimavosti-z-budky-v-chemparku-zaluzi.aspx)
 
@@ -25,3 +23,7 @@ Níže se dostanete na jednotlivé web kamery s živým přenosem. Většina z n
 ## [![Spolana Neratovice](/media/karticka_spolana.jpg)](https://www.orlenunipetrol.cz/cs/zodpovedna_firma/zivotni-prostredi/starame-se-o-sokoly/Stranky/zajimavosti-z-budky-ve-spolane-neratovice.aspx)
 
 ## [![ORLEN Kralupy nad Vltavou](/media/karticka_orlen_rafinerie.jpg)](https://www.orlenunipetrol.cz/cs/zodpovedna_firma/zivotni-prostredi/starame-se-o-sokoly/Stranky/zajimavosti-z-budky-v-kralupech-nad-vltavou.aspx)
+
+## [![Teplárna Termo](/media/karticka_termo.jpg)](http://sokoli.jaw.cz/)
+
+## [![Teplárna Litoměřice](/media/karticka_Litomerice.jpg)](https://enh.enetiqa.cz/webkamera/#ptaci_hnizdo)
