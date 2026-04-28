@@ -16,8 +16,6 @@ Níže se dostanete na jednotlivé web kamery s živým přenosem. Většina z n
 
 ## [![Teplárna Veolia](/media/karticka_Veolia.jpg)](https://www.youtube.com/watch?v=Wm6zQTyIQbE)
 
-## [![Chempark Záluží](/media/karticka_orlen_chempark.jpg)](https://www.orlenunipetrol.cz/cs/zodpovedna_firma/zivotni-prostredi/starame-se-o-sokoly/Stranky/zajimavosti-z-budky-v-chemparku-zaluzi.aspx)
-
 ## [![Chempark Záluží Etylen](/media/karticka_orlen_etylen.jpg)](https://www.orlenunipetrol.cz/cs/zodpovedna_firma/zivotni-prostredi/starame-se-o-sokoly/Stranky/zajimavosti-z-budky-v-chemparku-zaluzi.aspx)
 
 ## [![Spolana Neratovice](/media/karticka_spolana.jpg)](https://www.orlenunipetrol.cz/cs/zodpovedna_firma/zivotni-prostredi/starame-se-o-sokoly/Stranky/zajimavosti-z-budky-ve-spolane-neratovice.aspx)
