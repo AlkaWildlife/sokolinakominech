@@ -13,10 +13,6 @@ Letošní čerstvě vylíhlí dva samci a dvě samičky již okroužkoval Václa
 
 Ve chvaletické elektrárně se nachází ještě jedna budka, která je asi o dvacet metrů níže. Ta se zalíbila poštolkám obecným, ale sokolové si ji střeží. Vzájemně si nepřekážejí. „_Sokoli se pohybují ve vyšší výšce než poštolky a potravu loví pouze v letu. K hnízdění potřebují klidné místo, kam se nedostane člověk. Oproti tomu poštolky využívají spíše dutiny na rozmanitých stavbách, například větrací šachty, průduchy na půdy, výklenky či římsy a loví především drobné savce_,“ ujistil Václav Beran. 
 
-
-
-
-
 ![](/media/sokoli-ech4.jpg)
 
 ![](/media/sokoli-ech6.jpg)
